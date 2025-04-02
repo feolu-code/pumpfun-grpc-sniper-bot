@@ -48,7 +48,7 @@
 
    - Demo video:
 
-     [pumpfun sniper bot with grpc(buy token within 2s)](https://x.com/0xTan1319/status/1889395901938209056)
+     [pumpfun sniper bot with grpc(buy token within 2s)]
 
    - Buy & Sell
 
